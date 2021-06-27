@@ -1,3 +1,6 @@
+![todolist-redux](https://user-images.githubusercontent.com/75949382/123547325-f90ecf00-d768-11eb-89a3-96e5e15582cd.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
